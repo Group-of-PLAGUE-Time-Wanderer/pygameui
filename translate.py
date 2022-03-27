@@ -5,7 +5,6 @@
 Module for Plague 4 translations, provide Translator object.
 """
 import configparser
-from fnmatch import translate
 from typing import Optional
 
 
